@@ -1,5 +1,7 @@
 ## Hi there I am Bhargav 👋
+## 🎥 Introduction Video
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](./intro.mp4)
 <!--
 **bhargavmane1802/bhargavmane1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
